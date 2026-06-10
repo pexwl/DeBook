@@ -1,6 +1,11 @@
 # DeBook
 This is a used book marketplace built with PHP, JavaScript, and HTML, powered by a MySQL database.
 
+## Demo
+![Book Page](tree/master/assets/book.jpeg)
+![Author Page](tree/master/assets/author.jpeg)
+![Help Page](tree/master/assets/help.jpeg)
+
 ## Deploying DeBook
 - PHP 7.0 or above
 - MariaDB or MySQL
